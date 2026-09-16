@@ -1,0 +1,18 @@
+{
+  "name": "champ-logic-visible",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --configLoader native",
+    "build": "tsc --noEmit && vite build --configLoader native",
+    "test": "tsc --noEmit && vitest run --configLoader native",
+    "audit": "vitest run src/audit.test.ts --configLoader native --reporter verbose"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.0",
+    "vitest": "^3.2.7"
+  }
+}

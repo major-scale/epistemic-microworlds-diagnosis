@@ -1,0 +1,30 @@
+{
+  "snapshot_date": "2026-09-16",
+  "sha256": {
+    "PUBLICATION.md": "05b1969cc99d3af9ef86e147e37b1d85653eda7266e14455173f5048c7e81c87",
+    "index.html": "7ae7919a809b390a85a7911933d362cc2fb655c46906cb38c63279e74a0bc1af",
+    "vite.config.mjs": "6d6155afba9e181c1ed7c1ff1d1034cba5e5c9e20d652d6cf944824c299cf6c1",
+    "ATTRIBUTION.md": "57e355eb450ca2c4844c6f726df5bc47ecfeb30c8bfe434c40e93f095ecb9456",
+    "VALIDATION.md": "118ba9ff9fd9bdf3cfc79d5da58f47d69215c098e2f2b02c7f1e75dcf6e3e556",
+    ".npmrc": "a093bb2fed59d699b7f9a62a5203cc196054c624e9c39c6d908c9e7db5dd2464",
+    "README.md": "55ee91df5a7aeed4797861dd15051f969e599cf36893d66ab7becaad093ffaff",
+    ".gitignore": "ef319419191738d3fb356713541c8348f7d5b50232c0c24f09bf004fba3eafc4",
+    "package-lock.json": "a9239e6da6c1ac33fe85a72b6e0e1a9f0dfb1988a5539dd831bddb858d3e5c4c",
+    "package.json": "4947efc6839cbb8795c4095202fd38fe09f3e20f49df92ab0b1a7494df264bb4",
+    "tsconfig.json": "4e80dc3b3024a010c4f83b596dd78d3a00dd410d6780ecaafe738afd8742d582",
+    "docs/DX-2-DEFENSIVE-REPORT.md": "9fb67524d67a0465e4cd58cd412267fb7a9f556660c7a0eb277f0b27e35ef0aa",
+    "shots/automatic-narrowing.png": "031486f3e08f647cb5b2fba42e88c58b0d4dc4e51016fe7ce7b4eb13dab15a22",
+    "shots/final-undecided.png": "7705e96bc9d1cf0918cf5e03b5bb5cd3bd8f1ef48ff2607dfde9d62fc52e09aa",
+    "shots/opening.png": "5948bc16ba8c5c2b5173b74bf68961f57d8c8f5611a29f97c1c516aa480b85a4",
+    "src/copyLaw.ts": "275581f49999828ad24869b671446c655018cf565c89f9328c584d11fc81a16e",
+    "src/main.ts": "6a977b6a45fbf04b88e41912410fcfd329a5eeb66c35ea18aa1a4c0e40ff70e2",
+    "src/oracle.ts": "e6316cde1ffaf015663152980a66f1358637fc6640a87e09a92adf99e5579efe",
+    "src/audit.test.ts": "7fd9745541861de3796047a19800a069e51a95735fad15c1d08218ba4f6bd1e7",
+    "src/engine.test.ts": "8c70b4c1661fbbd0f522a6e4d24a792bfd38ea4931f2d91a281ede25e8f895bc",
+    "src/engine.ts": "abeb983ce89354b68f9ef453cca01cd4a987773dfe7ba4f74c444200503feecb",
+    "src/model.ts": "8e8215f28dbeeaf99ea6f287f2a8033fbb4546e7add3bd97aeef9f24f6b556ff",
+    "src/style.css": "dc42a925810c29e9dd8d6ef662b8739c9b693fce4021989a152444677358698f",
+    "src/sourceLaws.test.ts": "0fd93d3c40aa8b04c57da7e95b3a30ca7e3b4bee3770c7fbc77ab03fa8b78914",
+    "src/auditHarness.ts": "acb7c41e2ec58b27308b3a155b4b16def7672e8473170033aedc1169e479b2cf"
+  }
+}
